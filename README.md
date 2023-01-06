@@ -34,4 +34,3 @@ This project is licensed under the LNS License.
 Hat tip to anyone whose code was used
     Inspiration
     etc.
-https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white    
