@@ -3,7 +3,7 @@ import string
 # import configparser
 # import requests
 
-api_key = 'RGAPI-b21e4b07-c52f-4f8b-9bff-8510be7ba2b6'
+api_key = 
 watcher = LolWatcher(api_key)
 my_region = 'euw1'
 GameVersion = "13.6.1"
