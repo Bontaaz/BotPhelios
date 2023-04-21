@@ -1,36 +1,36 @@
-# Cara-a-cara project
+# BotPhelios ProjetDEV 6B
 
-Cara-a-cara is a 1v1 game on a web application made by three students from Ynov Lyon.
+BotPhelios est un bot Discord utilisant python et permettant de recevoir des informations depuis l'api de Riot Games
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Pour commencer
+Ce bot est uniquement présent sur un serveur en particulier, néamoins il est possible de le rendre accessible partout. Pour cela:
+    1 - Rendez vous dans le fichier COMMANDS.py présent dans le dossier Discord.
+    2 - Modifiez la ligne ci-dessous avec: intents=discord.Intent.default().
+![image](https://user-images.githubusercontent.com/98102389/233601065-babbe2b5-e26a-413e-93d1-f43b4423ac91.png)
+    3 - Modifiez Supprimez ensuite le GuildId dans chaque commande.
 
-## Prerequisites
-List any required dependencies or software that must be installed in order to run the project.
+## Lancer le bot
+Pour lancer le bot ils vous suffit de cloner le ce repo grace à la commande: 'git clone https://github.com/Bontaaz/BotPhelios.git'
+Installez ensuites les packages necessaire.
+Lancez ensuite le main en utilisant 'python3 main.py'
 
-## Installing
-Step-by-step instructions for installing the project and getting it running on your local machine.
+## Inviter le bot sur un serveur discord
+Pour inviter le bot assurez vous d'être administrateur du serveur. Cliquez ensuite sur le lien suivant.
+https://discord.com/api/oauth2/authorize?client_id=1078402825891102831&permissions=8&scope=bot
 
-## Gameplay
-A description of how the game is played and any relevant rules.
-Built With
+## Exemple de commandes complexes
+'/opgg name:WallAphelios region:EUW queue:SoloQ'
+Permet d'afficher les informations de rank du joueur 'WallAphelios'
 
-    Dependency 1
-    Dependency 2
+'/coaching name:WallAphelios region:EUW description:j'aimerais me faire coach car je suis nul'
+Permet de réserver une session de coaching avec le coach affilié
 
-## Contributing
+'/showcoaching name:WallAphelios'
+permet de voir les informations sur la personne souhaitant se faire coach (normalement accessible uniquement du coach ou des admins)
 
-Instructions for how others can contribute to the project, including any requirements or guidelines for contributions.
-Authors
+## Comment voir si le bot est up ou non ?
+D'abord regarder si le bot à un petit logo vert à coté de sa photo
+![image](https://user-images.githubusercontent.com/98102389/233603491-db131a9e-0761-4910-8542-3f8f1cb0a741.png)
 
-    Your Name - Your Github
-
-## Licence
-
-This project is licensed under the LNS License.
-
-## Acknowledgments
-
-Hat tip to anyone whose code was used
-    Inspiration
-    etc.
+Vous pouvez aussi le confirmer sur
+https://botphelios-dev.nunch2.repl.co
