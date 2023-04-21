@@ -49,6 +49,11 @@ https://botphelios-dev.nunch2.repl.co
 ## Lien d'invitation du bot
 https://discord.com/api/oauth2/authorize?client_id=1078402825891102831&permissions=8&scope=bot
 
+## ☣⚠ LIEN POUR TESTER LE BOT ⚠☢
+
+## VIDEO DE PRESENTATION
+https://youtu.be/bTFSnzCdehQ
+
 ## Auteurs
 * COURNOLLET-RODRIGUEZ Louis - LCournollet
 * SEREIR Nacim - Sereir

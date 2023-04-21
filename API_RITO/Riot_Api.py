@@ -1,9 +1,11 @@
 from riotwatcher import LolWatcher, ApiError
 import string
+import os
+from dotenv import load_dotenv
 # import configparser
 # import requests
-
-api_key = 'RGAPI-b21e4b07-c52f-4f8b-9bff-8510be7ba2b6'
+load_dotenv()
+api_key = os.getenv('RIOT_API')
 watcher = LolWatcher(api_key)
 my_region = 'euw1'
 GameVersion = "13.6.1"
