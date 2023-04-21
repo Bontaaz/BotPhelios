@@ -32,9 +32,9 @@ GuildId = 1033732474452328510
 CoachingChannel = 1098573663856492676
 LoopChannel = 1098573991599427705
 #BotTesting PUBLIC
-# GuildId = 1098895018267262976
-# CoachingChannel = 1098898323785662464
-# LoopChannel = 1098898064657350758
+#GuildId = 1098895018267262976
+#CoachingChannel = 1098897950731669534
+#LoopChannel = 1098898323785662464
 #----------------------------------------------------------------------------------------------------------------
 
 # bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
