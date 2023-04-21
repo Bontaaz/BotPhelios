@@ -47,9 +47,10 @@ Vous pouvez aussi le confirmer sur
 https://botphelios-dev.nunch2.repl.co
 
 ## Auteurs
-* AOUADJ Jaleel - Crapauwer
+* COURNOLLET-RODRIGUEZ Louis - LCournollet
 * SEREIR Nacim - Sereir
+* CAPPE Sean - Bontaaz
 
-## License
+## Licence
 
-B2 YNOV INFORMATICS LYON 
+B2 YNOV INFORMATICS LYON - Groupe6B
