@@ -42,9 +42,12 @@ D'abord regarder si le bot à un petit logo vert à coté de sa photo
 <br>
 ![image](https://user-images.githubusercontent.com/98102389/233603491-db131a9e-0761-4910-8542-3f8f1cb0a741.png)
 
-Vous pouvez aussi le confirmer sur
+Vous pouvez aussi le lancer ici
 <br>
 https://botphelios-dev.nunch2.repl.co
+
+## Lien d'invitation du bot
+https://discord.com/api/oauth2/authorize?client_id=1078402825891102831&permissions=8&scope=bot
 
 ## Auteurs
 * COURNOLLET-RODRIGUEZ Louis - LCournollet
