@@ -8,7 +8,7 @@ Ce bot est uniquement présent sur un serveur en particulier, néanmoins il est 
 Pour cela:
   * Rendez vous dans le fichier COMMANDS.py présent dans le dossier Discord.
   * Modifiez la ligne ci-dessous avec: 
-#####intents=discord.Intent.default()#####
+`intents=discord.Intent.default()`
 ![image](https://user-images.githubusercontent.com/98102389/233601065-babbe2b5-e26a-413e-93d1-f43b4423ac91.png)
   * Modifiez Supprimez ensuite le GuildId dans chaque commande.
 
@@ -37,10 +37,3 @@ D'abord regarder si le bot à un petit logo vert à coté de sa photo
 
 Vous pouvez aussi le confirmer sur
 https://botphelios-dev.nunch2.repl.co
-
-
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
