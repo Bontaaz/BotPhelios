@@ -50,6 +50,7 @@ https://botphelios-dev.nunch2.repl.co
 https://discord.com/api/oauth2/authorize?client_id=1078402825891102831&permissions=8&scope=bot
 
 ## ☣⚠ LIEN POUR TESTER LE BOT ⚠☢
+https://discord.gg/ZwysDyaB34
 
 ## VIDEO DE PRESENTATION
 https://youtu.be/bTFSnzCdehQ
