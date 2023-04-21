@@ -46,3 +46,10 @@ Vous pouvez aussi le confirmer sur
 <br>
 https://botphelios-dev.nunch2.repl.co
 
+## Auteurs
+* AOUADJ Jaleel - Crapauwer
+* SEREIR Nacim - Sereir
+
+## License
+
+B2 YNOV INFORMATICS LYON 
