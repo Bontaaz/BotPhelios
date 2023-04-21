@@ -4,9 +4,11 @@ BotPhelios est un bot Discord programmé en Python et permettant de recevoir des
 
 ## Pour commencer
 Ce bot est uniquement présent sur un serveur en particulier, néanmoins il est possible de le rendre accessible partout.
+
 Pour cela:
   * Rendez vous dans le fichier COMMANDS.py présent dans le dossier Discord.
-  * Modifiez la ligne ci-dessous avec: intents=discord.Intent.default().
+  * Modifiez la ligne ci-dessous avec: 
+           <i> intents=discord.Intent.default() </i>
 ![image](https://user-images.githubusercontent.com/98102389/233601065-babbe2b5-e26a-413e-93d1-f43b4423ac91.png)
   * Modifiez Supprimez ensuite le GuildId dans chaque commande.
 
