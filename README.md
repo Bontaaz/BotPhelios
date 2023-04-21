@@ -26,12 +26,15 @@ https://discord.com/api/oauth2/authorize?client_id=1078402825891102831&permissio
 
 ## Exemple de commandes complexes
 `/opgg name:WallAphelios region:EUW queue:SoloQ`
+<br>
 Permet d'afficher les informations de classement du joueur 'WallAphelios'
 
 `/coaching name:WallAphelios region:EUW description:j'aimerais me faire coach car je suis nul`
+<br>
 Permet de réserver une session de coaching avec le coach affilié
 
 `/showcoaching name:WallAphelios`
+<br>
 Permet de voir les informations sur la personne souhaitant se faire coach (normalement accessible uniquement du coach ou des admins)
 
 ## Comment voir si le bot est up ou non ?
