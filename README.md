@@ -1,13 +1,14 @@
-# BotPhelios ProjetDEV 6B
+# BotPhelios - ProjetDEV - Groupe6B
 
-BotPhelios est un bot Discord utilisant python et permettant de recevoir des informations depuis l'api de Riot Games
+BotPhelios est un bot Discord programmé en Python et permettant de recevoir des informations depuis l'API de Riot Games sur les joueurs et les personnages du jeu vidéo League of Legends.
 
 ## Pour commencer
-Ce bot est uniquement présent sur un serveur en particulier, néamoins il est possible de le rendre accessible partout. Pour cela:
-    1 - Rendez vous dans le fichier COMMANDS.py présent dans le dossier Discord.
-    2 - Modifiez la ligne ci-dessous avec: intents=discord.Intent.default().
+Ce bot est uniquement présent sur un serveur en particulier, néanmoins il est possible de le rendre accessible partout.
+Pour cela:
+  * Rendez vous dans le fichier COMMANDS.py présent dans le dossier Discord.
+  * Modifiez la ligne ci-dessous avec: intents=discord.Intent.default().
 ![image](https://user-images.githubusercontent.com/98102389/233601065-babbe2b5-e26a-413e-93d1-f43b4423ac91.png)
-    3 - Modifiez Supprimez ensuite le GuildId dans chaque commande.
+  * Modifiez Supprimez ensuite le GuildId dans chaque commande.
 
 ## Lancer le bot
 Pour lancer le bot ils vous suffit de cloner le ce repo grace à la commande: 'git clone https://github.com/Bontaaz/BotPhelios.git'
