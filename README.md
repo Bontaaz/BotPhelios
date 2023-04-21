@@ -39,6 +39,7 @@ Permet de voir les informations sur la personne souhaitant se faire coach (norma
 
 ## Comment voir si le bot est up ou non ?
 D'abord regarder si le bot à un petit logo vert à coté de sa photo
+<br>
 ![image](https://user-images.githubusercontent.com/98102389/233603491-db131a9e-0761-4910-8542-3f8f1cb0a741.png)
 
 Vous pouvez aussi le confirmer sur
