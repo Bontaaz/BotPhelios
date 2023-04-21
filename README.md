@@ -37,3 +37,10 @@ D'abord regarder si le bot à un petit logo vert à coté de sa photo
 
 Vous pouvez aussi le confirmer sur
 https://botphelios-dev.nunch2.repl.co
+
+
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
